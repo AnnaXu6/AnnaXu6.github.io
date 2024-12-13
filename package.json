@@ -1,6 +1,6 @@
 {
   "name": "introduction",
-  "homepage": "https://AnnaXu6.github.io/My-website",
+  "homepage": "https://AnnaXu6.github.io/AnnaXu6.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,5 +45,4 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   }
-  
 }
