@@ -1,6 +1,6 @@
 {
   "name": "introduction",
-  "homepage": "https://AnnaXu6.github.io/AnnaXu6.github.io",
+  "homepage": "https://annaxu6.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "jquery": "^3.7.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "three": "^0.171.0",
     "wavesurfer.js": "^7.8.10",
     "web-vitals": "^2.1.4"
