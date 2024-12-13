@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AnnaXu6.github.io/static/css/main.f2062260.css",
-    "main.js": "/AnnaXu6.github.io/static/js/main.bcd6159e.js",
-    "static/media/优设标题黑.ttf": "/AnnaXu6.github.io/static/media/优设标题黑.ccdd188b73ad41f90e61.ttf",
-    "static/media/MySQL.png": "/AnnaXu6.github.io/static/media/MySQL.167c88550478e6f0f85c.png",
-    "static/media/background.jpeg": "/AnnaXu6.github.io/static/media/background.231e7e45876b669381fc.jpeg",
-    "static/media/linux.png": "/AnnaXu6.github.io/static/media/linux.18f2d6136df54a2e4410.png",
-    "static/media/RStudio.png": "/AnnaXu6.github.io/static/media/RStudio.1becc96e5a972ce9ac97.png",
-    "static/media/Windows.png": "/AnnaXu6.github.io/static/media/Windows.a85ffafa0a94e47e075e.png",
-    "static/media/redis.png": "/AnnaXu6.github.io/static/media/redis.602efa858cacd545e790.png",
-    "static/media/css.png": "/AnnaXu6.github.io/static/media/css.e7a4a3a007f3e52c563f.png",
-    "static/media/linkin.png": "/AnnaXu6.github.io/static/media/linkin.cabb3cbaf3529dc02ecc.png",
-    "index.html": "/AnnaXu6.github.io/index.html",
-    "main.f2062260.css.map": "/AnnaXu6.github.io/static/css/main.f2062260.css.map",
-    "main.bcd6159e.js.map": "/AnnaXu6.github.io/static/js/main.bcd6159e.js.map"
+    "main.css": "/mywebsite/static/css/main.b0212049.css",
+    "main.js": "/mywebsite/static/js/main.01c1c16e.js",
+    "static/media/优设标题黑.ttf": "/mywebsite/static/media/优设标题黑.ccdd188b73ad41f90e61.ttf",
+    "static/media/MySQL.png": "/mywebsite/static/media/MySQL.167c88550478e6f0f85c.png",
+    "static/media/background.jpeg": "/mywebsite/static/media/background.231e7e45876b669381fc.jpeg",
+    "static/media/linux.png": "/mywebsite/static/media/linux.18f2d6136df54a2e4410.png",
+    "static/media/RStudio.png": "/mywebsite/static/media/RStudio.1becc96e5a972ce9ac97.png",
+    "static/media/Windows.png": "/mywebsite/static/media/Windows.a85ffafa0a94e47e075e.png",
+    "static/media/redis.png": "/mywebsite/static/media/redis.602efa858cacd545e790.png",
+    "static/media/css.png": "/mywebsite/static/media/css.e7a4a3a007f3e52c563f.png",
+    "static/media/linkin.png": "/mywebsite/static/media/linkin.cabb3cbaf3529dc02ecc.png",
+    "index.html": "/mywebsite/index.html",
+    "main.b0212049.css.map": "/mywebsite/static/css/main.b0212049.css.map",
+    "main.01c1c16e.js.map": "/mywebsite/static/js/main.01c1c16e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2062260.css",
-    "static/js/main.bcd6159e.js"
+    "static/css/main.b0212049.css",
+    "static/js/main.01c1c16e.js"
   ]
 }
