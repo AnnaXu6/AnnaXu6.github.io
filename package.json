@@ -1,5 +1,5 @@
 {
-  "name": "introduction",
+  "name": "mywebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "wavesurfer.js": "^7.8.10",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://annaxu6.github.io/AnnaXu6.github.io",
+  "homepage": "https://annaxu6.github.io/mywebsite",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
