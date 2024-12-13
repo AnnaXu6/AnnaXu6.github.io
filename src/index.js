@@ -1,8 +1,6 @@
 import './index.css';
 import $  from 'jquery';
 import * as THREE from "three";
-import React from 'react';
-import ReactDOM from 'react-dom/client';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import WaveSurfer from 'wavesurfer.js'
 import rstudioIcon from './assets/RStudio.png';
