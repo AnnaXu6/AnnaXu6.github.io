@@ -72,6 +72,25 @@ document.addEventListener('scroll', () => {
   });
 });
 
+document.addEventListener('DOMContentLoaded', function() {
+  const toggleButton = document.getElementById('toggle-button');
+  const sidebarContent = document.getElementById('sidebar-content');
+
+  toggleButton.addEventListener('click', function(event) {
+    event.stopPropagation(); // 防止事件冒泡
+    sidebarContent.classList.toggle('active');
+    toggleButton.classList.toggle('active');
+  });
+
+  // 点击页面其他区域关闭侧边栏
+  document.addEventListener('click', function(event) {
+    if (sidebarContent.classList.contains('active') && !sidebarContent.contains(event.target) && event.target !== toggleButton && !toggleButton.contains(event.target)) {
+      sidebarContent.classList.remove('active');
+      toggleButton.classList.remove('active');
+    }
+  });
+});
+
 document.addEventListener("DOMContentLoaded", () => {
   const skillsContainer = document.getElementById('three-canvas-renderer');
   const scene = new THREE.Scene();
