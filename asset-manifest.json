@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mywebsite/static/css/main.b0212049.css",
-    "main.js": "/mywebsite/static/js/main.01c1c16e.js",
+    "main.css": "/mywebsite/static/css/main.743abf84.css",
+    "main.js": "/mywebsite/static/js/main.140e9088.js",
     "static/media/优设标题黑.ttf": "/mywebsite/static/media/优设标题黑.ccdd188b73ad41f90e61.ttf",
     "static/media/MySQL.png": "/mywebsite/static/media/MySQL.167c88550478e6f0f85c.png",
     "static/media/background.jpeg": "/mywebsite/static/media/background.231e7e45876b669381fc.jpeg",
@@ -12,11 +12,11 @@
     "static/media/css.png": "/mywebsite/static/media/css.e7a4a3a007f3e52c563f.png",
     "static/media/linkin.png": "/mywebsite/static/media/linkin.cabb3cbaf3529dc02ecc.png",
     "index.html": "/mywebsite/index.html",
-    "main.b0212049.css.map": "/mywebsite/static/css/main.b0212049.css.map",
-    "main.01c1c16e.js.map": "/mywebsite/static/js/main.01c1c16e.js.map"
+    "main.743abf84.css.map": "/mywebsite/static/css/main.743abf84.css.map",
+    "main.140e9088.js.map": "/mywebsite/static/js/main.140e9088.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0212049.css",
-    "static/js/main.01c1c16e.js"
+    "static/css/main.743abf84.css",
+    "static/js/main.140e9088.js"
   ]
 }
